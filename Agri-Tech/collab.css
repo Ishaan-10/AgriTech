@@ -1,0 +1,38 @@
+.farmers{
+    width: 1140px;
+    margin: 0px auto;
+    padding: 50px 0px;
+}
+.farmers-left{
+        padding-top: 40px;
+        display: inline;
+        background-color: rgba(206, 199, 199, 0.801);
+        width: 1140px;
+        float: right;
+        margin: 20px 0px;
+        height: 250px;
+}
+.farmers-left img{
+    padding: 20px;
+    float: left;
+}
+.farmers-right{
+        display: inline;
+        background-color: rgba(208, 208, 208, 0.801);
+        width: 1140px;
+        float: left;
+        height: 250px;
+        padding-top: 40px;
+        padding-left: 20px;
+}
+.farmers-right img{
+        float: right;
+        padding: 20px;
+}
+html{
+    color: white;
+}
+.title{
+    color: black;
+    letter-spacing: 1px;
+}
